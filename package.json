@@ -26,6 +26,7 @@
     "core-js": "^2.4.1",
     "debug": "~2.2.0",
     "express": "~4.14.0",
+    "google-cloud": "^0.57.0",
     "hbs": "~3.1.0",
     "jsonwebtoken": "^5.7.0",
     "mongoose": "^4.4.12",
